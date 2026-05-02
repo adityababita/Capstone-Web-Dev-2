@@ -9,12 +9,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@reduxjs/toolkit": "latest",
+    "@vitejs/plugin-react": "^6.0.1",
     "axios": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "react-router-dom": "latest",
-    "@reduxjs/toolkit": "latest",
-    "react-redux": "latest"
+    "react-redux": "latest",
+    "react-router-dom": "latest"
   },
   "devDependencies": {
     "vite": "latest"
